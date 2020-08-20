@@ -1,4 +1,11 @@
 archive
 node_modules
-.idea
+
+# ignore file
 /credentials.txt
+
+#ignore folder
+.idea
+
+#ignore txt files inside of folder
+/dist/text/*.txt
