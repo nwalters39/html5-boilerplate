@@ -3,6 +3,7 @@ import path from 'path';
 
 import gulp from 'gulp';
 
+// Add this comment right here for testing purposes
 // Load all gulp plugins automatically
 // and attach them to the `plugins` object
 import plugins from 'gulp-load-plugins';
